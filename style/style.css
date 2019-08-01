@@ -1649,6 +1649,21 @@ button::-moz-focus-inner, input::-moz-focus-inner {
   margin: 0;
 }
 
+.disclaimer {
+  font-size: 12px;
+  font-style: italic;
+  margin: 0;
+}
+
+.disclaimer a {
+  color: #3b1483;
+}
+
+.hr-footer {
+  width: 50%;
+  border-color: #270d57;
+}
+
 @media only screen and (max-width: 2000px) {
   #me {
     max-width: 300px;
