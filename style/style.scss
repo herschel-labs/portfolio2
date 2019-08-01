@@ -1915,6 +1915,19 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     margin: 0;
 }
 
+.disclaimer {
+    font-size: 12px;
+    font-style: italic;
+    margin: 0;
+    a {
+        color: #3b1483;
+}}
+
+.hr-footer {
+    width: 50%;
+    border-color: $royal-purple-dark;
+}
+
 
 
 
